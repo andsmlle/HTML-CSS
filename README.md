@@ -4,7 +4,7 @@
 ## Visual Studio Code
 
 <p align="center">
-<img src="Files/vsc.png" width="300" height="200" alt=""><br>
+<img src="Files/vsc.png" width="300" height="300" alt=""><br>
 <i>Логотип Visual Studio Code</i>
 </p>  
 
