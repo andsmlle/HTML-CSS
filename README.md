@@ -36,7 +36,7 @@ CSS - это язык стилей, который определяет, как 
 Для создания неоновой кнопки так же надо использовать свойство transform и псевдокласс :hover.
 
 <p align="center">
-<img src="Examples/ButtonGIF.gif" alt=""><br>
+<img src="Files/button.gif" alt=""><br>
 <i>Пример работы неоновой кнопки</i>
 </p>
   
